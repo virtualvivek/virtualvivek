@@ -9,4 +9,4 @@ I love crafting refined system experiences, designing smooth workflows, and shap
 
 <a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="220"> </a>
 
-⭐ Check out the project and leave a star if you like it!
+⭐ Check out my projects and leave a star if you like it!
