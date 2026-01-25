@@ -1,4 +1,4 @@
-🌐 VirtualVivek
+🦖 virtualvivek
 👋 Hey there! Welcome to my digital space.
 
 I'm Vivek — a design and OS architect who is deeply passionate about Android.
